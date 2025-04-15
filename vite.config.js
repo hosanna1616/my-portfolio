@@ -4,10 +4,10 @@ import path from "path"
 
 export default defineConfig({
   plugins: [react()],
-  base: "/my-portfolio",
+  base: process.env.NODE_ENV === 'production' ? '/my-portfolio/' : '/',
   resolve: {
     alias: {
-      "@": path.resolve(__dirname, "./src"),
+      '@': path.resolve(__dirname, './src'),
     },
   },
 })

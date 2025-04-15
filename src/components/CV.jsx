@@ -97,7 +97,7 @@ function CV() {
                 <div className="relative h-80 w-64 overflow-hidden rounded-lg border-2 border-brown-light shadow-md hover:shadow-xl transition-all duration-300 hover:scale-105">
                   {/* This is where you'll add your CV image */}
                   <img
-                    src="src/components/cv pic.png"
+                    src="/images/cv pic.png"
                     alt="Profile"
                     className="h-full w-full object-cover"
                   />

@@ -7,7 +7,7 @@ function Projects() {
       title: 'jeon beauty',
       description:
         "I designed Jeon Beauty to showcase a range of high-quality makeup products, emphasizing both aesthetics and functionality. The site features a modern and engaging layout that reflects the brand's commitment to beauty and innovation.",
-      image: 'src/components/j1.png',
+      image: '/images/j1.png',
       tags: ['Html', 'css', 'javascript', 'tailwind'],
       liveLink: 'https://hosanna1616.github.io/jeon/home.html',
       githubLink: 'https://hosanna1616.github.io/jeon/home.html',
@@ -17,7 +17,7 @@ function Projects() {
       title: 'Mafi Clothes',
       description:
         "I created a dynamic and engaging platform that showcases the brand's identity through modern web design principles. Incorporating smooth animations throughout the site enhances visual interest and guides users through the content seamlessly. These animations are designed to be subtle yet impactful, ensuring they do not distract from the main message but rather complement the overall user experience",
-      image: 'src/components/j2.png',
+      image: 'public/images/j2.png',
       tags: ['Html', 'css', 'javascript', 'Bootstrap'],
       liveLink: 'https://example.com',
       githubLink: 'https://hosanna1616.github.io/mafimafi/h.html',
@@ -27,7 +27,7 @@ function Projects() {
       title: 'Ai Recruiter Agent',
       description:
         'A task management application with drag-and-drop functionality built with React and TypeScript.',
-      image: 'src/components/p3.png',
+      image: '/images/p3.png',
       tags: ['JavaScript', 'React', 'vite', 'TailwindCSS'],
       liveLink: 'https://github.com/hosanna1616',
       githubLink: 'https://github.com/hosanna1616',
@@ -37,7 +37,7 @@ function Projects() {
       title: 'Helder Technology',
       description:
         'I  design and develop impactful, user-friendly websites that elevate businesses in the digital landscape. With a keen eye for innovation and functionality, I craft professional websites tailored to meet unique brand needs and customer expectations. Whether building from scratch or refining existing websites, I ensure seamless performance, modern design, and engaging user experience—helping businesses establish a strong online presence.',
-      image: 'src/components/he.png',
+      image: '/images/he.png',
       tags: ['JavaScript', 'React', 'typescript', 'TailwindCSS'],
       liveLink: 'https://v0-helder-technoogy-website-rx13fz.vercel.app/',
       githubLink: 'https://github.com/hosanna1616',
@@ -47,7 +47,7 @@ function Projects() {
       title: 'Ai Environment Analayzer',
       description:
         'I  design and develop impactful, user-friendly websites that elevate businesses in the digital landscape. With a keen eye for innovation and functionality, I craft professional websites tailored to meet unique brand needs and customer expectations. Whether building from scratch or refining existing websites, I ensure seamless performance, modern design, and engaging user experience—helping businesses establish a strong online presence..',
-      image: 'src/components/e.png',
+      image: '/images/e.png',
       tags: ['JavaScript', 'React', 'typescript', 'TailwindCSS'],
       liveLink: 'https://v0-helder-technoogy-website-rx13fz.vercel.app/',
       githubLink: 'https://github.com/hosanna1616',
@@ -57,7 +57,7 @@ function Projects() {
       title: 'Dental Managment System',
       description:
         'I am developing a Dental Management System that simplifies and optimizes the operations of dental clinics. This system is designed to provide an intuitive and efficient platform for managing patient records, appointment scheduling, treatment plans, billing, and clinic workflow.',
-      image: 'src/components/p.png',
+      image: '/images/p.png',
       tags: ['JavaScript', 'React', 'typescript', 'next js', 'TailwindCSS'],
       liveLink: 'https://dental-3qil.vercel.app/',
       githubLink: 'https://dental-3qil.vercel.app/',

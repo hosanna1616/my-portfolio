@@ -59,7 +59,7 @@ function Achievements() {
               <div className="relative h-80 overflow-hidden rounded-lg border shadow-md transition-all duration-300 hover:shadow-lg">
                 {/* This is where you'll add your certificate image */}
                 <img
-                  src="src/components/p2.jpg"
+                  src="/images/p2.jpg"
                   alt="Profile"
                   className="h-full w-full object-cover"
                 />

@@ -58,7 +58,7 @@ function Hero() {
           <div className="flex items-center justify-center">
             <div className="relative h-80 w-80 overflow-hidden rounded-full border-4 border-primary animate-float">
               <img
-                src="src/components/im.jpg"
+                src="/images/im.jpg"
                 alt="Profile"
                 className="h-full w-full object-cover"
               />
