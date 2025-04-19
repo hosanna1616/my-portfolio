@@ -59,8 +59,8 @@ function Projects() {
         'I am developing a Dental Management System that simplifies and optimizes the operations of dental clinics. This system is designed to provide an intuitive and efficient platform for managing patient records, appointment scheduling, treatment plans, billing, and clinic workflow.',
       image: 'src/components/p.png',
       tags: ['JavaScript', 'React', 'typescript', 'next js', 'TailwindCSS'],
-      liveLink: 'https://v0-helder-technoogy-website-rx13fz.vercel.app/',
-      githubLink: 'https://github.com/hosanna1616',
+      liveLink: 'https://dental-3qil.vercel.app/',
+      githubLink: 'https://dental-3qil.vercel.app/',
     },
   ]
 
