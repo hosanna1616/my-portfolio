@@ -49,7 +49,7 @@ function Projects() {
         'I  design and develop impactful, user-friendly websites that elevate businesses in the digital landscape. With a keen eye for innovation and functionality, I craft professional websites tailored to meet unique brand needs and customer expectations. Whether building from scratch or refining existing websites, I ensure seamless performance, modern design, and engaging user experience—helping businesses establish a strong online presence..',
       image: '/images/e.png',
       tags: ['JavaScript', 'React', 'typescript', 'TailwindCSS'],
-      liveLink: 'https://v0-helder-technoogy-website-rx13fz.vercel.app/',
+      liveLink: 'https://ubiquitous-pastelito-1a2dbb.netlify.app/',
       githubLink: 'https://github.com/hosanna1616',
     },
     {
